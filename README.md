@@ -1,5 +1,11 @@
 # Sales Analytics Project
+---
 
+## Dashboard Preview
+
+![Dashboard Preview](insights/dashboard_page-0001.jpg)
+
+---
 End-to-end data analysis project using Excel, MySQL, Python, and Power BI on a synthetic e-commerce sales dataset (5,000 records).
 
 ## Project Overview
@@ -63,22 +69,21 @@ This project simulates a complete data analyst workflow: cleaning and exploring 
 sales-analytics-project/
 ├── data/
 │   ├── sales_data.csv
-│   └── sales_data.xlsx
 ├── excel/
+│   ├── sales_data.xlsx
 │   └── sales_data_cleaned.xlsx
-├── sql/
-│   └── queries.sql
-├── python/
-│   └── analysis.ipynb
+├── insights/
+│   └── dashboard_page-0001.jpg
 ├── powerbi/
 │   ├── dashboard.pbix
-│   └── dashboard.jpg
+├── python/
+│   └── analysis.ipynb
+├── sql/
+│   └── queries.sql
 └── README.md
 ```
 
-## Dashboard Preview
 
-![Dashboard Preview](powerbi/dashboard.jpg)
 
 ## How to Use
 
