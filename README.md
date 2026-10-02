@@ -1,4 +1,4 @@
-# Sales Analytics Project
+# Retail Sales Analytics Project
 ---
 
 ## Dashboard Preview
